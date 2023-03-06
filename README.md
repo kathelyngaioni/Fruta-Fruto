@@ -1,2 +1,0 @@
-# Fruta-Fruto
-Aprendendo Bootstrap
